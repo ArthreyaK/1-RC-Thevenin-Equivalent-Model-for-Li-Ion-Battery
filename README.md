@@ -26,5 +26,20 @@ State of charge (SOC) is the level of charge of an electric battery relative to 
 <p style="text-align: center;"> z[k] = 1- ($\eta$ [k] x i [k] / Q)</p>
 
 ## _Voltage Observation_
-We have experimentally observed voltage of cell with respect to time. The senesor frequency is 1 Hz.
+We have experimentally observed voltage of cell with respect to time. The senesor frequency is 1 Hz. The voltage sensors are basically ADC (Analog to Digital Convertor). If the voltage range is very high, to make the reading more accurate we also use chipsets.
+</br>
+The voltage reading is done with the consideration of cell temperature and SOC conditions. It is basically, compared and cleaned with the data set collected for different temperature and at different SOC condition.
+</br>
+_The above mentioned data set collection is taken from the capstone project of Introductory Course on Battery Mangement offered by Proff. George Prett._
+
+## _Need for Equivalent Circuit_
+An equivalent circuit is a simplified representation of an electrical system that captures the behavior of the system. Equivalent circuits are used to analyze the performance of electrical systems. In the case of battery management systems, the equivalent circuit is used to represent the behavior of the battery, such as its capacity, voltage, current, and resistance. The equivalent circuit is then used to predict the behavior of the battery in different conditions. In addition, the equivalent circuit can be used to determine the optimal charging and discharging parameters for the battery. Thus it will help to ensure that the battery is not overcharged or over-discharged, which can lead to reduced battery life.
+
+## _1-RC Thevenin Equivalent Model_
+Thevenin equivalent circuits are among the most commonly used equivalent circuits in the electrical domain. This type of equivalent circuit is used to represent the battery's voltage, current, and resistance. The circuit consists of a voltage source, resistance, and two nodes. The two nodes are the positive and negative terminals of the battery, where the voltage source is the battery's voltage, and the resistance is its internal resistance. This circuit is slightly modified with a capacitor. The capacitor represents the battery's capacity, which is the amount of energy the battery can store. This circuit is used to model the behavior of the battery in different conditions.
+</br>
+![alt text](http://url/to/img.png)
+
+
+
 
