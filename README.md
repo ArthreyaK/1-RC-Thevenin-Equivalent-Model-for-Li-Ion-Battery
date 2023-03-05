@@ -40,8 +40,11 @@ Thevenin equivalent circuits are among the most commonly used equivalent circuit
 </br>
 ![1RC](https://user-images.githubusercontent.com/125644875/222981966-8612cf6c-63a5-405b-8e0f-57af81444e1b.png)
 
-## _Adjusting the Parameters R0, R1, C1
-Form the voltage versus time relationship we find the values of the parameters,
+## _Adjusting the Parameters R0, R1, C1_
+Form the voltage versus time relationship we find the values of the parameters.
+</br>
+![Parameter](https://user-images.githubusercontent.com/125644875/222983116-7c05464b-13b7-4e1d-b7e3-3c6452c24e88.png)
+
 
 
 
