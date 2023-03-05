@@ -45,6 +45,7 @@ Form the voltage versus time relationship we find the values of the parameters.
 </br>
 ![Parameter](https://user-images.githubusercontent.com/125644875/222983116-7c05464b-13b7-4e1d-b7e3-3c6452c24e88.png)
 
+_ With the code adjoined, I was able to deduce my RMS error to about 0.1 %._
 
 
 
