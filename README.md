@@ -38,7 +38,7 @@ An equivalent circuit is a simplified representation of an electrical system tha
 ## _1-RC Thevenin Equivalent Model_
 Thevenin equivalent circuits are among the most commonly used equivalent circuits in the electrical domain. This type of equivalent circuit is used to represent the battery's voltage, current, and resistance. The circuit consists of a voltage source, resistance, and two nodes. The two nodes are the positive and negative terminals of the battery, where the voltage source is the battery's voltage, and the resistance is its internal resistance. This circuit is slightly modified with a capacitor. The capacitor represents the battery's capacity, which is the amount of energy the battery can store. This circuit is used to model the behavior of the battery in different conditions.
 </br>
-![alt text](https://www.researchgate.net/publication/340115101/figure/fig1/AS:872454356467712@1585020736438/1RC-Equivalent-circuit-model.ppm)
+![alt text]![alt text]([http://url/to/img.png](https://www.researchgate.net/publication/340115101/figure/fig1/AS:872454356467712@1585020736438/1RC-Equivalent-circuit-model.ppm))
 
 
 
